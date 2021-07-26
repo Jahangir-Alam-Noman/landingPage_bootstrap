@@ -1,0 +1,38 @@
+
+/* Banner part */
+#banner{
+    background: linear-gradient(rgba(0,0,0,.05),rgba(0,0,0,.05)),url("../images/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    color: #ffffff;
+    background-size: cover;
+    padding-top: 150px;
+
+}
+#banner .h1{
+    font-size: 50px;
+}
+
+/* Bootstrap 5 Ready */
+#boot_strap .fa{
+    font-size: 70px;
+}
+
+/* Fully Responsive Design */
+.custom_img{
+    width:104%;
+}
+
+/* Ready to get started */
+
+#get_started{
+    background: linear-gradient(rgba(0,0,0,.05),rgba(0,0,0,.05)),url("../images/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 350px;
+    color: #ffffff;
+    background-size: cover;
+    padding-top: 100px;
+
+}
